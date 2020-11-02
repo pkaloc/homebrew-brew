@@ -1,6 +1,6 @@
 # Homebrew Tap
 
-A personal [Tap](https://docs.brew.sh/Taps) for all formulas I have not found elsewhere. Keeping it public as, who knows, you might have been looking for a same formula...
+A personal [Tap](https://docs.brew.sh/Taps) for all formulas I have not found elsewhere. Keeping it public as, who knows, you might have been looking for the same formula...
 
 ## Formulas
 
